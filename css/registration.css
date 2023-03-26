@@ -73,6 +73,7 @@ body {
     flex-direction: column;
     height: 95%;
     width: 30%;
+    margin-right: 30px;
     margin-left: 50px;
     align-items: baseline;
     padding: 25px;
@@ -226,7 +227,7 @@ label {
     height: 100%;
     margin-left: 12%;
     position: relative;
-    background-image: url('images/organ.png');
+    background-image: url('../images/organ.png');
     box-shadow: 2px 2px 4px 4px rgb(121, 120, 120);
     box-shadow: inset;
 }
@@ -288,6 +289,7 @@ footer {
         width: 50%;
         height: 50%;
         margin-top: 30px;
+        margin-right: 0px;
     }
 
     .fm2 .fa-user {
@@ -303,6 +305,7 @@ footer {
         width: 50%;
         height: 50%;
         margin-top: 30px;
+        margin-right: 0px;
     }
 
     .fm {
@@ -343,6 +346,7 @@ footer {
         width: 70%;
         height: 50%;
         margin-top: 30px;
+        margin-right: 0px;
     }
 
     .fm1 .btn-grad {
@@ -354,6 +358,7 @@ footer {
         width: 70%;
         height: 50%;
         margin-top: 30px;
+        margin-right: 0px;
     }
 
     .fm2 .fa-user {
@@ -375,7 +380,7 @@ footer {
     }
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:600px) {
     .head {
         font-size: 25px;
     }
