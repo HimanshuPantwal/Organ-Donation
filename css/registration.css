@@ -262,7 +262,7 @@ footer {
 }
 
 /*********************************MEDIA QUERIES*************************************/
-@media screen and (max-width:1110px) {
+@media screen and (max-width:1111px) {
     .img {
         margin-left: 12%;
         height: 40%;
